@@ -2,7 +2,7 @@ $(document).ready(function() {
     var buttons = document.querySelectorAll('.btn-torneio .botao-torneios');
     var conteudoJogo2 = `
     <div>
-    <a href="https://upbet.com/ptb/games/detail/casino/normal/19364" class="inner_table unit_panel">
+    <a href="https://m.upbet.com/ptb/games/detail/casino/normal/19364" class="inner_table unit_panel">
         <div class="unit_image">
             <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/19364.jpg" class="el-image__inner" style="object-fit: cover;">
         </div>
@@ -14,7 +14,7 @@ $(document).ready(function() {
 </div>
 
         <div>
-            <a href="https://upbet.com/ptb/games/detail/casino/normal/19364" class="inner_table unit_panel">
+            <a href="https://upbet.com/ptb/games/detail/casino/normal/24442" class="inner_table unit_panel">
                 <div class="unit_image">
                     <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/24442.jpg" class="el-image__inner" style="object-fit: cover;">
                 </div>
@@ -69,7 +69,7 @@ $(document).ready(function() {
 
     var conteudoJogo1 = `
         <div>
-            <a href="https://upbet.com/ptb/games/detail/casino/normal/19364" class="inner_table unit_panel">
+            <a href="https://go.aff.upbet.com/zs49baos" class="inner_table unit_panel">
                 <div class="unit_image">
                     <img src="https://d2csxpduxe849s.cloudfront.net/media/0F761720-670F-4352-9E8055C6446868B5/CA56A439-AA7A-4B06-8506AC5D258E27E0/webimage-C15F89B1-B7FE-4465-9601C5F295C9C081.png" class="el-image__inner" style="object-fit: cover;">
                 </div>
@@ -96,7 +96,7 @@ $(document).ready(function() {
 
     var conteudoJogo3 = `
 <div>
-            <a href="https://upbet.com/ptb/games/detail/casino/normal/19364" class="inner_table unit_panel">
+            <a href="https://m.upbet.com/ptb/games/detail/casino/normal/13485" class="inner_table unit_panel">
                 <div class="unit_image">
                     <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13485.jpg" class="el-image__inner" style="object-fit: cover;">
                 </div>
@@ -108,7 +108,7 @@ $(document).ready(function() {
       
         </div>
         <div>
-            <a href="https://upbet.com/ptb/games/detail/casino/normal/19364" class="inner_table unit_panel">
+            <a href="https://upbet.com/ptb/games/detail/casino/normal/17170" class="inner_table unit_panel">
                 <div class="unit_image">
                     <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13183.jpg" class="el-image__inner" style="object-fit: cover;">
                 </div>
@@ -120,7 +120,7 @@ $(document).ready(function() {
       
         </div>
         <div>
-            <a href="https://upbet.com/ptb/games/detail/casino/normal/19364" class="inner_table unit_panel">
+            <a href="https://upbet.com/ptb/games/detail/casino/normal/20053" class="inner_table unit_panel">
                
 
     
@@ -148,13 +148,31 @@ var conteudoPremio3 = `
 `;
 var conteudoJogo4 = `
 <div>
-            <a class="inner_table unit_panel">
+            <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4574" class="inner_table unit_panel">
                 <div class="unit_image">
-                    <img src="https://static.sportingtech.com/m-common/assets/images/livecasino/300x200/20164.jpg" class="el-image__inner" style="object-fit: cover;">
+                    <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/4574.jpg" class="el-image__inner" style="object-fit: cover;">
                 </div>
                 <div class="unit_cover">
-                    <div class="unit_name">Boom City</div>
-                    <div class="unit_vendor">Pragmatic Play</div>
+                    <div class="unit_name">Valhalla</div>
+                    <div class="unit_vendor">Wazdan</div>
+                </div>
+            </a>
+            <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4549" class="inner_table unit_panel">
+                <div class="unit_image">
+                    <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4549.jpg" class="el-image__inner" style="object-fit: cover;">
+                </div>
+                <div class="unit_cover">
+                    <div class="unit_name">Magic of the Ring</div>
+                    <div class="unit_vendor">Wazdan</div>
+                </div>
+            </a>
+            <a href="https://upbet.com/ptb/games/detail/casino/normal/19294" class="inner_table unit_panel">
+                <div class="unit_image">
+                    <img src="//static.sportingtech.com/common/assets/images/casino/300x200/19294.jpg" class="el-image__inner" style="object-fit: cover;">
+                </div>
+                <div class="unit_cover">
+                    <div class="unit_name">Hot Slot: 777 Crown</div>
+                    <div class="unit_vendor">Wazdan</div>
                 </div>
             </a>
       
@@ -166,9 +184,11 @@ var conteudoJogo4 = `
 
 var conteudoPremio4 = `
 <ul>
-    <li>Conteudo 3 - Brendoi</li>
-    <li>Conteudo 3 - Brendoi</li>
-    <li>Conteudo 3 - Brendoi</li>
+    <li># - 52370030417008 - 25,00</li>
+    <li># - 52370030417008 - 25,00</li>
+    <li># - 52370030417008 - 25,00</li> 
+
+  
  
 </ul>
 `;
@@ -296,6 +316,6 @@ function atualizarContador(idContador, dataFinal) {
 atualizarContador(1, 'june 5, 2024 23:59:59');
 atualizarContador(2, 'June 30, 2024 23:59:59');
 atualizarContador(3, 'March 15, 2025 23:59:59');
-atualizarContador(4, 'april 20, 2024 23:59:59');
+atualizarContador(4, 'September 29, 2024 23:59:59');
 
 
