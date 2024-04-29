@@ -14,7 +14,8 @@
             containerDiv.id = 'div-principal-torneio-informacoes';
             
             // ConteÃºdo HTML
-            var htmlContent1 =  `<div class="cointainer-principal-informacoes-torneio">
+            var htmlContent1 =  `<meta charset="UTF-8">
+            <div class="cointainer-principal-informacoes-torneio">
             <div class="imagem-banner-informacoes-torneio">
                 <img src="https://static.sportingtech.com/upsports/upload_files/1310x370.png" alt="">
                 <span id="torneio-em-andamento">Em Andamento</span>
