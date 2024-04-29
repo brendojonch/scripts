@@ -102,7 +102,7 @@
         </details>
         <div class="div-jogos-participantes-do-torneio">
         <div class="div-jogos-participantes-do-torneio">
-        <div class="game-card-torneio secao-extra ">
+        <div class="game-card-torneio secao-extra jogo-unico">
  <a href="URL_DE_DESTINO">
 
 
