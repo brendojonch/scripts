@@ -1,0 +1,696 @@
+
+
+
+#container-torneio-ganhadores {
+  position: fixed;
+  bottom: 0;
+  z-index: 1000;
+  cursor: pointer;
+  background: #1a2126;
+  width: 300px;
+  height: 100%;
+  right: -300px;
+  border-top: 5px solid #13c9b8;
+  transition: right 0.5s ease-in-out;
+  display: flex;
+  flex-wrap: wrap;
+  flex-direction: column-reverse;
+  justify-content: flex-end;
+  
+
+}
+
+#icone-torneio-ganhadores {
+  cursor: pointer;
+  position: fixed;
+  right: 0;
+  width: 50px;
+  bottom: 20%;
+  height: auto;
+  border-radius: 0;
+}
+
+#container-torneio-ganhadores-inner{
+  display: flex;
+  width: 100%;
+  justify-content: space-between;
+  align-items: center;
+  padding: 0 20px;
+  border-bottom: 1px solid #333;
+
+}
+
+#icone-torneio-ganhadores-inner{
+  width: 30px;
+  position: fixed;
+  top: 60px;
+  right: 20px;
+}
+
+#icone-torneio-ganhadores-inner:hover{
+cursor: pointer;
+}
+
+#mais-informacoes-torneios{
+display: flex;
+flex-wrap: wrap;
+}
+
+#mais-informacoes-torneios .contador{
+width: 100%;
+}
+
+.mais-info{
+width: 100%;
+}
+
+.cointainer-principal-informacoes-torneio{
+background: #212121;
+width: 100%;
+max-width: 900px;
+margin: 80px auto;
+overflow: hidden;
+border-radius: 10px;
+padding: 20px;
+}
+
+#div-principal-torneio-informacoes{
+position: fixed;
+top: 0;
+left: 0;
+width: 100%;
+height: 100%;
+overflow-x: hidden;
+  overflow-y: auto;
+background: #000000c7;  
+
+}
+
+.imagem-banner-informacoes-torneio{
+width: 100%;
+height: 200px;
+margin: 0 auto;
+position: relative;
+}
+
+.imagem-banner-informacoes-torneio img{
+width: 100%;
+margin: 0 auto;
+max-height: 200px;
+object-fit: cover;
+border-top-left-radius: 10px;
+border-top-right-radius: 10px;
+
+}
+
+#torneio-em-andamento{background: #13c9b8;color: #fff;font-weight: bold;position: absolute;left: 20px;bottom: -10px;padding: 5px 10px;border-radius: 5px;}
+
+.titulo-e-premiacao-torneio{
+padding: 20px;
+display: flex;
+flex-wrap: wrap;
+justify-content: space-between;
+background: #333;
+color: #fff;
+}
+
+.titulo-e-premiacao-torneio p{
+font-weight: bold;
+font-size: 20px;
+}
+
+.titulo-e-premiacao-torneio span{width: 180px;text-align: center;align-self: center;background: #13c9b8;color: #fff;font-weight: bold;border-radius: 5px;padding: 5px;}
+
+.conteudo-premiacao-torneio{
+padding: 0 20px 20px 20px;
+color: #ddd;
+background: #333;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+}
+
+#titulo-1-torneio{
+background: #fff;
+color: #333;
+width: max-content;
+padding: 5px;
+margin-top: 0;
+border-radius: 5px;
+font-weight: bolder;
+
+}
+
+
+.conteudo-regras-torneio{
+background: #555;
+border-radius: 10px;
+margin-top: 20px;
+}
+
+.conteudo-regras-torneio:hover{
+  cursor: pointer;
+  }
+
+.conteudo-regras-torneio p{
+  font-weight: bold;
+  font-size: 20px;
+  color: #fff;
+  margin: 0;
+  padding: 10px 20px;
+}
+
+.conteudo-regras-torneio summary {
+  list-style: none;
+  margin: 0;
+}
+
+
+details[open] summary strong{
+color: #13c9b8 !important;
+}
+
+
+
+.conteudo-regras-torneio ul{
+background: #333;
+color: #ddd;
+border-bottom-left-radius: 10px;
+border-bottom-right-radius: 10px;
+padding: 20px 40px;
+list-style-type: decimal;
+}
+.conteudo-regras-torneio ul li{
+margin: 10px 0;
+}
+
+.conteudo-regras-torneio ul li::marker{
+color: #13c9b8;
+font-weight: bold;
+}
+
+.div-jogos-participantes-do-torneio{display: flex;flex-wrap: wrap;justify-content: space-evenly;}
+
+.game-card-torneio{
+display: flex;
+flex-wrap: wrap;
+width: 23%;
+}
+
+.game-card-torneio img{
+width: 100%;
+margin: 20px 0 5px 0;
+
+}
+
+.game-card-torneio p{
+width: 100%;
+margin: 0 5px;
+font-size: 12px;
+color: #fff;
+
+}
+
+
+
+.botao-torneio-informacoes-carregar{border: 1px solid #999;color: #999;background: none;font-weight: bold;display: inline;border-radius: 10px;font-size: 16px;width: 300px;/* margin-bottom: 100px; */margin: 20px auto 100px auto;padding: 10px 0;}
+
+
+.botao-torneio-informacoes-carregar:hover{
+  cursor: pointer;
+  background-color: #13C9B8;
+  border-color: #13C9B8;
+  color: #111;
+  }
+
+/* Brendo  */
+
+
+ 
+.nome-torneio{color: #fff;font-size: 1rem;line-height: 1.5rem;font-weight: 600;margin-bottom: .5rem;cursor: pointer;display: -webkit-box;display: -ms-flexbox;display: flex;-webkit-box-align: center;-ms-flex-align: center;align-items: center;font-size: larger;}
+.torneio-body .btn-torneio .botao-torneios{
+ padding: 0;
+ border-radius: 5px;
+ color: #fff;
+ /* border: 1px solid #ccc; */
+ cursor: pointer;
+ transition: background-color 0.3s;
+}
+
+.torneio-body span{
+  font-weight: bold;
+  color: #666;
+  font-size: 14px;
+}
+
+
+
+.active {
+ background-color: #13C9B8;
+ color: #111;
+}
+
+.inactive {
+  background-color: #1a1a1a;
+  color: #fff;
+ }
+
+
+.btn-torneio {
+  display: flex;
+  justify-content: space-around;
+  background: #1a1a1a;
+  border-radius: 5px;
+}
+.btn-torneio .botao-torneios{
+ padding: 10px 20px; 
+ width: 50%; 
+ height: 35px; 
+ font-size: 14px; 
+ border-radius: 5px; 
+ border: none; 
+ cursor: pointer; 
+ font-weight: bold; 
+ text-align: center; 
+ box-sizing: border-box; 
+}
+
+
+#conteudo, #conteudo2 , #conteudo3 , #conteudo4  {
+min-height: 220px;
+max-height: 220px; 
+overflow-y: scroll;
+padding: 10px 0;
+overflow-x: hidden;
+}
+
+
+/* Estiliza a barra de rolagem (scrollbar) */
+.torneio-body div::-webkit-scrollbar {
+  width: 8px;  /* para barras verticais */
+  border-radius: 5px;
+  
+}
+
+/* Estiliza a trilha da barra de rolagem (parte por onde a barra se move) */
+.torneio-body div::-webkit-scrollbar-track {
+  background: #333; /* cor de fundo da trilha */
+  border-radius: 5px;
+  margin: 10px 0;
+
+}
+
+/* Estiliza o botÃ£o da barra de rolagem (thumb) */
+.torneio-body div::-webkit-scrollbar-thumb {
+  background-color: darkgrey; /* cor do thumb */
+  border-radius: 10px;        /* bordas arredondadas para o thumb */
+  border-radius: 5px;
+
+}
+
+
+.inner_table {
+ display: flex;
+ /* overflow-x: auto; */
+ white-space: nowrap;
+ align-items: center;
+ justify-content: flex-start;
+}
+
+.unit_panel {
+ background-color: #1a1a1a;
+ padding: 0 10px;
+ margin: 5px 5px 0 0;
+ border-radius: 5px;
+ text-decoration: none;
+}
+.unit_image .el-image__inner {
+  display: flex;
+ width: 55px;
+ height: 40px; 
+ height: auto; 
+ border-radius: 5px;
+ object-fit: cover; 
+}
+.unit_cover {
+ padding: 10px; 
+}
+.unit_name {
+ font-weight: bold; 
+ color: #fff;
+ font-size: 12px;
+}
+.unit_vendor {
+ font-size: 0.8em; 
+ color: #a6a6a6; 
+}
+.betmaster_countdown {
+display: flex;
+justify-content: center;
+gap: 10px; 
+}
+.count_down_item {
+display: flex;
+flex-direction: column;
+align-items: center;
+background-color: #333; 
+}
+.time {
+color: #fff;
+font-size: 1rem;
+font-weight: bold;
+margin-bottom: 5px;
+width: 45px;
+padding: 10px 0;
+border-radius: 5px;
+border: 1px solid #fff;
+}
+.type {
+color: #fff;
+font-size: .8rem;
+}    .torneio-card-container {
+display: flex;
+justify-content: center;
+flex-direction: row;
+
+}
+.torneio-card {
+width: 300px;
+border-radius: 10px;
+overflow: hidden;
+background-color: #1a2126;
+box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+margin: 10px;
+}
+.torneio-header {
+color: #fff;
+padding: 10px;
+text-align: center;
+background-size: cover;
+background-position: center;
+height: 130px;
+}
+.torneio-header h2 {
+margin: 0;
+font-size: 1.5em;
+}
+.torneio-body {
+padding: 15px;
+background-color: #252525;}
+.botao-torneios{
+display: inline-block;
+padding: 10px 20px;
+margin: 5px;
+border-radius: 20px;
+border: none;
+cursor: pointer;
+font-weight: bold;
+}
+
+.torneio-card ul {
+list-style: none;
+padding: 0;
+}
+.torneio-card li {
+background-color: #212121;
+padding: 5px 10px;
+margin-bottom: 5px;
+border-radius: 5px;
+color: #fff;
+box-shadow: 0 2px 2px rgba(0, 0, 0, 0.05);
+}
+.mais-info {
+  display: block;
+  text-align: center;
+  margin: 10px 0 0 0;
+  padding: 10px 0;
+  font-weight: bold;
+  border-radius: 5px;
+  background: #333333;
+  color: #fff;
+  text-decoration: none;
+}
+
+.mais-info:hover{
+  cursor: pointer;
+  background-color: #13C9B8;
+  color: #111;
+}
+
+.contador {
+text-align: center;
+background-color: #333;
+color: #fff;
+padding: 10px;
+border-radius: 5px;
+}
+
+
+.premio-total {
+font-size: 12px;
+font-weight: bold;
+background-color: #13C9B8;
+color: #fff;
+border-radius: 5px;
+padding: 5px 10px;
+text-align: center;
+width: 150px;
+margin: 0;
+position: relative;
+bottom: 35px;
+}
+
+.premio-total b{
+  font-size: 18px;
+  display: flex;
+  width: 100%;
+  justify-content: center;
+}
+
+
+.datas {
+font-size: 0.9em;
+opacity: 0.75;
+}
+
+
+.card-fundo {
+ border: 1px solid #ccc; 
+ padding: 20px; 
+ border-radius: 10px; 
+ 
+ text-align: center; 
+ height: 62px;
+ background-color: #333;
+}
+
+
+
+/* Final Brendo  */
+
+/* Scroll torneios */
+
+.slider-torneios-final {
+  position: relative;
+  width: 100%;
+  max-width: 960px;
+  margin: auto;
+  overflow: hidden;
+
+}
+
+.cards-torneio-final {
+  display: flex;
+  transition: transform 0.5s ease-in-out;
+  
+}
+
+.card-torneio-final {
+  display: flex;
+  min-width: 100%;
+  box-sizing: border-box;
+  padding: 0;
+  /* text-align: center; */
+  color: white;
+  transition: transform 0.5s ease-in-out;
+}
+
+/* Esconde os inputs */
+.slider-torneios-final input {
+  display: none;
+}
+
+/* MovimentaÃ§Ã£o do slider-torneios-final */
+#slide-torneio-final1:checked ~ .cards-torneio-final {
+  transform: translateX(0%);
+}
+#slide-torneio-final2:checked ~ .cards-torneio-final {
+  transform: translateX(-33.33%);
+}
+
+.navigation-torneio-final {
+  text-align: center;
+  position: relative;
+  bottom: 0;
+  width: 100%;
+  padding: 10px;
+  margin-bottom: 50px;
+}
+
+.nav-dot {
+  height: 15px;
+  width: 15px;
+  background-color: #bbb;
+  border-radius: 50%;
+  display: inline-block;
+  margin: 0 5px;
+}
+
+/* Estiliza a bolinha ativa */
+#slide-torneio-final1:checked ~ .navigation-torneio-final .nav-dot:nth-child(1),
+#slide-torneio-final2:checked ~ .navigation-torneio-final .nav-dot:nth-child(2) {
+  background-color: #888;
+}
+
+.jogo-unico{
+  width: 100%;
+}
+
+.jogo-unico p{
+  font-size: 16px;
+}
+
+
+.jogo-unico img{
+  border-radius: 10px;
+}
+
+@media only screen and (max-width:768px) {
+  #container-torneio-ganhadores{
+      right: -400px;
+      width: 100%;    
+      transition: right 0.5s ease-in-out;      
+  }
+
+  #conteudo, #conteudo2 , #conteudo3 , #conteudo4  {
+      min-height: auto;
+
+
+  }
+
+
+
+  .cointainer-principal-informacoes-torneio{
+    width: auto;
+  }
+
+  .imagem-banner-informacoes-torneio img{
+    height: 100%;    
+  }
+
+  .titulo-e-premiacao-torneio{
+    justify-content: center;
+  }
+
+  #titulo-1-torneio {
+    margin: 0 auto;
+  }
+  
+  #torneio-em-andamento{
+    bottom: -20px;
+  }
+
+  .titulo-e-premiacao-torneio span {
+    width: 100%;
+  }
+  
+  .cointainer-principal-informacoes-torneio{
+    margin: 0;
+  }
+
+  .game-card-torneio {
+    width: 48%;
+  }
+
+  .jogo-unico{
+    width: 100%;
+  }
+
+  .jogo-unico p{
+    font-size: 16px;
+  }
+
+  
+  .jogo-unico img{
+    border-radius: 10px;
+  }
+
+
+  .torneio-card {
+    width: 100%;
+    margin: 10px 0 20px 0;
+  }
+
+  .torneio-body {
+    padding: 10px;
+  }
+  .btn-torneio {
+    display: flex;
+    justify-content: center;
+    width: 100%;
+  }
+  .botao-torneios{
+    width: 100px; 
+    margin-right: 10px;
+    margin-bottom: 10px;
+  }
+  .premio-total {
+    font-size: 14px; 
+  }
+  .nome-torneio {
+    font-size: 18px; 
+  }
+  .contador {
+    margin-top: 10px;
+  }
+  .count_down_item {
+    margin-right: 5px;
+  }
+  .time {
+    font-size: 14px; 
+  }
+  .type {
+    font-size: 12px; 
+  }
+
+  .torneio-card-container{
+    flex-wrap: wrap;
+  }
+
+  .navigation-torneio-final{
+    display: none;
+  }
+
+  .cards-torneio-final{
+    display: block;
+  }
+ 
+  .card-torneio-final{
+    display: block;
+  }
+  
+
+  /* MovimentaÃ§Ã£o do slider-torneios-final */
+#slide-torneio-final1:checked ~ .cards-torneio-final {
+  transform: translateX(0%);
+}
+#slide-torneio-final2:checked ~ .cards-torneio-final {
+  transform: translateX(0%);
+}
+
+  
+
+  
+
+}
+
+
