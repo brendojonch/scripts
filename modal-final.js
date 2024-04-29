@@ -1,3 +1,5 @@
+// Este arquivo está codificado em UTF-8
+
 (function() {
     var linkElement = document.createElement('link');
     linkElement.rel = 'stylesheet';
