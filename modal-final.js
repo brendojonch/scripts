@@ -19,41 +19,42 @@
             </div>
             <div class="titulo-e-premiacao-torneio">
                 <p>Drops & Wins</p>
-                <span>Conjunto de prÃªmios R$150.000.000</span>
+                <span>Conjunto de premios R$150.000.000</span>
             </div>
             <div class="conteudo-premiacao-torneio">
                 <p id="titulo-1-torneio">Torneio De Cassino</p>
-                <p>DÃª as boas-vindas ao emocionante mundo dos torneios diÃ¡rios! Neste torneio, a cada dia oferecemos uma chance Ãºnica para os entusiastas de jogos demonstrarem suas habilidades e concorrerem a prÃªmios espetaculares.</p>
-                <p>A participaÃ§Ã£o Ã© simples: os jogadores devem se inscrever ativamente no torneio e realizar pelo menos um giro com dinheiro real para serem elegÃ­veis aos prÃªmios diÃ¡rios.</p>
-                <p>AlÃ©m disso, em nossos Torneios DiÃ¡rios, cada giro conta! Os pontos sÃ£o acumulados com base na soma dos multiplicadores de vitÃ³rias, e os prÃªmios sÃ£o generosamente distribuÃ­dos de acordo com a classificaÃ§Ã£o dos jogadores no ranking. NÃ£o perca a chance de girar, ganhar e subir ao topo!</p>
+                <p>Dê as boas-vindas ao emocionante mundo dos torneios diários! A cada dia oferecemos uma chance única para os entusiastas de jogos demonstrarem suas habilidades e concorrerem a prêmios espetaculares.</p>
+                <p>A participação é simples: os jogadores devem se inscrever ativamente no torneio e realizar pelo menos um giro com dinheiro real para serem considerados a concorrer aos prêmios diários.</p>
+                <p>Além disso, em nossos Torneios Diários, cada giro conta! Os pontos são acumulados com base na soma dos multiplicadores de vitórias. Além disso, os prêmios são generosamente distribuídos de acordo com a classificação dos jogadores no ranking. Não perca a chance de girar, ganhar e subir ao topo!</p>
             </div>
             <details class="conteudo-regras-torneio">
-                <summary><p>Regras do Torneio <strong>â®Ÿ</strong></p></summary>
+                <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
                 <ul>
-    <li><strong>Lista de Premiados e Regras:</strong> As regras e a lista de premiados estarÃ£o acessÃ­veis nos jogos participantes.</li>
-    <li><strong>Elegibilidade para Torneios:</strong> Apenas as 5000 primeiras apostas qualificadas por dia sÃ£o elegÃ­veis para participar dos torneios diÃ¡rios.</li>
-    <li><strong>Fases da PromoÃ§Ã£o:</strong> A segunda fase da promoÃ§Ã£o ocorre de 03/04 atÃ© 01/05, com prÃªmios de bÃ´nus de giros grÃ¡tis instantÃ¢neos no jogo Sugar Rush 1000.</li>
-</ul>
+                    <li>Lista de premiados e as regras: as regras e a lista de premiados estarão acessíveis nos jogos participantes;</li>
+                    <li>Elegibilidade para torneios: apenas as primeiras 5.000 apostas qualificadas por dia são elegíveis para participar dos torneios diários;</li>
+                    <li>Fases da promoção: a segunda fase da promoção acontece de 03/04 até 01/05, com prêmios de bônus de giros grátis instantâneos no jogo Sugar Rush 1.000.</li>
+                </ul>
 
             </details>
             <div class="div-jogos-participantes-do-torneio">
             <div class="div-jogos-participantes-do-torneio">
             <div class="game-card-torneio secao-extra">
-     <a href="https://m.upbet.com/ptb/games/detail/casino/normal/13485">
+     <a href="URL_DE_DESTINO">
+    
+    
             <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13485.jpg" alt="Gates of Olympus">
              </a>
             <p>Gates of Olympus</p>
             <p>Pragmatic Play</p>
+        
     </div>
-
         <div class="game-card-torneio secao-extra">
-        <a href="https://upbet.com/ptb/games/detail/casino/normal/13183">
+        <a href="URL_DE_DESTINO">
             <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13183.jpg" alt="">
              </a>
             <p>Big Bass Bonanza</p>
             <p>Pragmatic Play</p>
         </div>  
-
         <div class="game-card-torneio secao-extra">
         <a href="URL_DE_DESTINO">
             <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/20053.jpg" alt="">
@@ -67,360 +68,12 @@
              </a>
             <p>Sweet Bonanza</p>
             <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/16624.jpg" alt="">
-             </a>
-            <p>Bigger Bass Bonanza</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/19982.jpg" alt="">
-             </a>
-            <p>Big Bass Splash</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26610.jpg" alt="">
-             </a>
-            <p>Gears of Horus</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/16667.jpg" alt="">
-             </a>
-            <p>Starlight Princess</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/15212.jpg" alt="">
-             </a>
-            <p>5 Lions Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26565.jpg" alt="">
-             </a>
-            <p>Mighty Munching Melons</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8890.jpg" alt="">
-             </a>
-            <p>The Dog House</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8877.jpg" alt="">
-             </a>
-            <p>John Hunter and the Tomb of the Scarab Queen</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26514.jpg" alt="">
-             </a>
-            <p>Red Hot Luck</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/17170.jpg" alt="">
-             </a>
-            <p>Big Bass Bonanza Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/25627.jpg" alt="">
-             </a>
-            <p>Starlight Princess 1000</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/25674.jpg" alt="">
-             </a>
-            <p>Sugar Supreme Powernudge</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/23493.jpg" alt="">
-             </a>
-            <p>Wisdom of Athena</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/9576.jpg" alt="">
-             </a>
-            <p>John Hunter and the Book of Tut</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/23342.jpg" alt="">
-             </a>
-            <p>Big Bass Amazon Xtreme</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/10717.jpg" alt="">
-             </a>
-            <p>Wild Wild Riches</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/9453.jpg" alt="">
-             </a>
-            <p>Great Rhino Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8897.jpg" alt="">
-             </a>
-            <p>Mustang Gold</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26398.jpg" alt="">
-             </a>
-            <p>Lokis Riches</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26521.jpg" alt="">
-             </a>
-            <p>Trees of Treasure</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26555.jpg" alt="">
-             </a>
-            <p>Strawberry Cocktail</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26508.jpg" alt="">
-             </a>
-            <p>Big Bass - Floats My Boat</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26579.jpg" alt="">
-             </a>
-            <p>Wheel Oâ€™Gold</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/9633.jpg" alt="">
-             </a>
-            <p>Wild West Gold</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/24199.jpg" alt="">
-             </a>
-            <p>Candy Blitz</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/17225.jpg" alt="">
-             </a>
-            <p>Book of Fallen</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26130.jpg" alt="">
-             </a>
-            <p>Candy Jar Clusters</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26512.jpg" alt="">
-             </a>
-            <p>Pompeii Megareels Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/22629.jpg" alt="">
-             </a>
-            <p>The Dog House Multihold</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/14391.jpg" alt="">
-             </a>
-            <p>Buffalo King Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/21001.jpg" alt="">
-             </a>
-            <p>Big Bass Keeping it Reel</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/9632.jpg" alt="">
-             </a>
-            <p>Fruit Party</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26515.jpg" alt="">
-             </a>
-            <p>The Alter-Ego</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8866.jpg" alt="">
-             </a>
-            <p>Buffalo King</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13940.jpg" alt="">
-             </a>
-            <p>Juicy Fruits</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26179.jpg" alt="">
-             </a>
-            <p>Gates of Olympus 1000</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/25857.jpg" alt="">
-             </a>
-            <p>The Wild Gang</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/22717.jpg" alt="">
-             </a>
-            <p>Big Bass - Hold  Spinner</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/11247.jpg" alt="">
-             </a>
-            <p>Gems Bonanza</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/19807.jpg" alt="">
-             </a>
-            <p>Cleocatra</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13179.jpg" alt="">
-             </a>
-            <p>Madame Destiny Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/23003.jpg" alt="">
-             </a>
-            <p>Zeus vs Hades - Gods of War</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/22541.jpg" alt="">
-             </a>
-            <p>Wild Wild Riches Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26149.jpg" alt="">
-             </a>
-            <p>Fire Stampede</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8925.jpg" alt="">
-             </a>
-            <p>Chilli Heat</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/19829.jpg" alt="">
-             </a>
-            <p>Wild West Gold Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/10228.jpg" alt="">
-             </a>
-            <p>The Dog House Megaways</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/26186.jpg" alt="">
-             </a>
-            <p>Juicy Fruits Multihold</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8941.jpg" alt="">
-             </a>
-            <p>Wolf Gold</p>
-            <p>Pragmatic Play</p>
-        </div>  
-        <div class="game-card-torneio secao-extra">
-        <a href="URL_DE_DESTINO">
-            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13366.jpg" alt="">
-             </a>
-            <p>The Hand of Midas</p>
-            <p>Pragmatic Play</p>
-        </div>  
-            </div>
-            <button class="botao-torneio-informacoes-carregar" id="btnMostrarMais">Mostrar Mais</button>
-        </div>`;
+        </div>
+        </div>
+        <button class="botao-torneio-informacoes-carregar" id="btnMostrarMais">Mostrar Mais</button>
+    </div>
+
+        `;
     
         var htmlContent2 =  `<div class="cointainer-principal-informacoes-torneio">
         <div class="imagem-banner-informacoes-torneio">
@@ -429,26 +82,27 @@
         </div>
         <div class="titulo-e-premiacao-torneio">
             <p>Crash & Win</p>
-            <span>Conjunto de prÃªmios R$1.500.000</span>
+            <span>Conjunto de premios R$1.500.000</span>
         </div>
         <div class="conteudo-premiacao-torneio">
-            <p id="titulo-1-torneio">Torneio De Cassino</p>
-            <p>Apresentamos a emocionante promoÃ§Ã£o Crash & Win, uma oportunidade Ãºnica para jogadores apaixonados e Ã¡vidos por adrenalina! Este torneio desafia os participantes a mergulhar em uma experiÃªncia de jogo intensa com a chance de ganhar prÃªmios diÃ¡rios. </p>
-            <p>Com 364 drops diÃ¡rios garantidos, a dinÃ¢mica da promoÃ§Ã£o oferece surpresas constantes. Para participar, os jogadores devem ativar a opÃ§Ã£o de participaÃ§Ã£o diretamente nos jogos elegÃ­veis. 
-            <p>Ã‰ essencial que todas as apostas sejam feitas com dinheiro real. AlÃ©m disso, todos os dias, as primeiras 800 apostas qualificadas tÃªm a chance de ganhar prÃªmios em dinheiro, distribuÃ­dos aleatoriamente de acordo com nossa detalhada tabela de prÃªmios. NÃ£o perca a chance de ser um dos grandes ganhadores na promoÃ§Ã£o Crash & Win!</p>
+        <p>Apresentamos a emocionante promoção Crash & Win, uma oportunidade única para jogadores apaixonados e ávidos por adrenalina! Esse torneio desafia os participantes a mergulhar em uma experiência de jogo intensa e com a chance de ganhar prêmios diários.</p>
+        <p>Com 364 drops diários garantidos, a dinâmica da promoção oferece surpresas constantes. Para participar, os jogadores devem ativar a opção de participação diretamente nos jogos elegíveis.</p>
+        <p>É fundamental que todas as apostas sejam feitas com dinheiro real. Além disso, todos os dias, as primeiras 800 apostas qualificadas têm a chance de ganhar prêmios em dinheiro, distribuídos aleatoriamente de acordo com nossa detalhada tabela de prêmios.</p>
+        <p>Então, não perca a chance de ser um dos grandes ganhadores na promoção Crash & Win!</p>
+        
         </div>
         <details class="conteudo-regras-torneio">
-            <summary><p>Regras do Torneio <strong>â®Ÿ</strong></p></summary>
+            <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
             <ul>
-            <li><strong>Regras e Ranking:</strong> As regras e o ranking da promoÃ§Ã£o sÃ£o exibidos nos jogos participantes.</li>
-            <li><strong>Elegibilidade:</strong> Somente as primeiras 800 apostas qualificadas diariamente nos jogos participantes sÃ£o elegÃ­veis para ganhar prÃªmios.</li>
-            <li><strong>Valor MÃ­nimo de Aposta:</strong> As apostas devem ser de no mÃ­nimo R$1,00 para serem consideradas qualificadas para a promoÃ§Ã£o.</li>
-        </ul>
+                <li>Regras e ranking: as regras e o ranking da promoção são exibidos nos jogos participantes;</li>
+                <li>Elegibilidade: apenas as primeiras 800 apostas qualificadas diariamente nos jogos participantes são válidas para ganhar prêmios;</li>
+                <li>Valor mínimo de aposta: as apostas devem ser de, no mínimo R$1,00, para serem consideradas qualificadas para a promoção.</li>
+            </ul>
         
         </details>
         <div class="div-jogos-participantes-do-torneio">
         <div class="div-jogos-participantes-do-torneio">
-        <div class="game-card-torneio secao-extra">
+        <div class="game-card-torneio secao-extra ">
  <a href="URL_DE_DESTINO">
 
 
@@ -465,82 +119,162 @@
         <p>Big Bass Bonanza</p>
         <p>Pragmatic Play</p>
     </div>  
-    <div class="game-card-torneio secao-extra">
-    <a href="URL_DE_DESTINO">
-        <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/20053.jpg" alt="">
-         </a>
-        <p>Sugar Rush</p>
-        <p>Pragmatic Play</p>
-    </div>  
-    <div class="game-card-torneio secao-extra">
-    <a href="URL_DE_DESTINO">
-        <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8888.jpg" alt="">
-         </a>
-        <p>Sweet Bonanza</p>
-        <p>Pragmatic Play</p>
-    </div>  
+    
    `;
 
             var htmlContent3 =  `<div class="cointainer-principal-informacoes-torneio">
+            <div class="imagem-banner-informacoes-torneio">
+                <img src="https://static.sportingtech.com//upbet/images/news/57142-large.jpeg" alt="">
+                <span id="torneio-em-andamento">Em Andamento</span>
+            </div>
+            <div class="titulo-e-premiacao-torneio">
+                <p>Mega Wheel</p>
+                <span>Conjunto de premios R$25.000.000</span>
+            </div>
+            <div class="conteudo-premiacao-torneio">
+                <p id="titulo-1-torneio">Torneio De Cassino</p>
+                
+                <p>Prepare-se para entrar no frenesi do Mega Wheel Madness, uma promoção diária, repleta de emoção e oportunidades de ganhar prêmios surpreendentes! Além disso, a dinâmica do jogo é simples e envolvente. Vem conferir!</p>
+                <p>Drops Diários: para concorrer, os jogadores devem aceitar participar ativamente do torneio e fazer uma aposta mínima específica do jogo. As apostas podem desencadear um prêmio aleatório, distribuído de acordo com a nossa detalhada tabela de prêmios. Então, cada giro pode ser a chave para uma recompensa incrível!</p>
+                <p>Megatorneios de sexta-feira: elevando a emoção a outro nível, os megatorneios acontecem todas as sextas-feiras. Os jogadores devem entrar no torneio fazendo uma aposta mínima, que não só aumentam suas chances de ganhar, mas acumulam pontos que definem a posição no ranking do torneio. Os prêmios são generosos e distribuídos de acordo com a classificação dos participantes.</p>
+                <p>Além disso, não perca a chance de girar a roda da fortuna no Mega Wheel Madness e ganhar prêmios todos os dias!</p>
+            </div>
+            <details class="conteudo-regras-torneio">
+                <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
+                <ul>
+                    <li>Frequência dos eventos: são realizados 312 drops diários e 52 megatorneios nas sextas-feiras;</li>
+                    <li>Participação e apostas: é preciso aceitar a participação nas atividades promocionais e cumprir com o requisito de aposta mínima do jogo;</li>
+                    <li>Premiação: os prêmios nos drops e torneios são determinados pela tabela de prêmios e pela classificação no ranking, respectivamente.</li>
+                </ul>
+            </details>
+            <div class="div-jogos-participantes-do-torneio">
+            <div class="div-jogos-participantes-do-torneio">
+            <div class="game-card-torneio secao-extra jogo-unico">
+     <a href="https://go.aff.upbet.com/zs49baos">
+    
+    
+            <img src="https://static.sportingtech.com/common/assets/images/livecasino/300x200/11370.jpg" alt="Mega Wheel" title="Mega Wheel">
+             </a>
+            <p>Mega Wheel</p>
+            <p>Pragmatic Play</p>
+        
+    </div>
+
+</div>
+    </div>
+     `;
+            
+            var htmlContent4 =  `<div class="cointainer-principal-informacoes-torneio">
         <div class="imagem-banner-informacoes-torneio">
-            <img src="https://static.sportingtech.com//upbet/images/news/57142-large.jpeg" alt="">
+            <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSQNmFdLylNY8kLboG2sUaKs-I-BjNUI6JwxE90puD4Ew&s" alt="">
             <span id="torneio-em-andamento">Em Andamento</span>
         </div>
         <div class="titulo-e-premiacao-torneio">
-            <p>Mega Wheel Madness</p>
-            <span>Conjunto de prÃªmios R$5.000.000</span>
+            <p>Wazdan</p>
+            <span>Conjunto de premios R$25.000.000</span>
         </div>
         <div class="conteudo-premiacao-torneio">
-            <p id="titulo-1-torneio">Torneio De Cassino</p>
+   
+        <p id="titulo-1-torneio">Torneio De Cassino</p>
+<p>Ganhe grande no Torneio dos Campeões Wazdan! 🎉</p>
+<p>De 29/04 a 29/09, aposte nos seus jogos favoritos de cassino da Wazdan e dispute uma parte espetacular de 5 milhões de euros (que serão pagos em BRL) em prêmios. Cada aposta pode ser a chave para desbloquear uma das 100.000 Caixas Misteriosas! Sabe o mais legal? Não tem aposta mínima. Então, cada jogada conta!</p>
+<p>Não fique de fora, seus prêmios em dinheiro esperam por você e são creditados instantaneamente! Entre nessa agora e transforme suas apostas em vitórias extraordinárias! ✨</p>
+
+    </div>
             
-<p>Prepare-se para entrar no frenesi do Mega Wheel Madness, uma promoÃ§Ã£o repleta de emoÃ§Ã£o e oportunidades de ganhar prÃªmios surpreendentes diariamente! A dinÃ¢mica do jogo Ã© simples e envolvente:</p>
-<p>Drops DiÃ¡rios: Para participar, os jogadores devem optar ativamente pelo torneio e realizar uma aposta mÃ­nima especificada. Qualquer aposta pode desencadear um prÃªmio aleatÃ³rio, distribuÃ­do de acordo com a nossa detalhada tabela de prÃªmios. Cada giro pode ser a chave para um prÃªmio incrÃ­vel!</p>
-<p>Megatorneios de Sexta-Feira: Elevando a emoÃ§Ã£o a outro nÃ­vel, os megatorneios acontecem todas as sextas-feiras. Os jogadores devem entrar no torneio fazendo uma aposta mÃ­nima. As apostas nÃ£o sÃ³ aumentam suas chances de ganhar, mas tambÃ©m acumulam pontos que definem a posiÃ§Ã£o no ranking do torneio. Os prÃªmios sÃ£o generosos e distribuÃ­dos de acordo com a classificaÃ§Ã£o dos participantes.</p>
-<p>NÃ£o perca a chance de girar a roda da fortuna no Mega Wheel Madness e ganhar prÃªmios todos os dias!</p>
-        </div>
-        <details class="conteudo-regras-torneio">
-            <summary><p>Regras do Torneio <strong>â®Ÿ</strong></p></summary>
-            <<ul>
-            <li><strong>FrequÃªncia dos Eventos:</strong> SÃ£o realizados 312 drops diÃ¡rios e 52 megatorneios nas sextas-feiras.</li>
-            <li><strong>ParticipaÃ§Ã£o e Apostas:</strong> Ã‰ necessÃ¡rio optar pela participaÃ§Ã£o nas atividades promocionais e cumprir com o requisito de aposta mÃ­nima.</li>
-            <li><strong>PremiaÃ§Ã£o:</strong> Os prÃªmios nos drops e torneios sÃ£o determinados pela tabela de prÃªmios e pela classificaÃ§Ã£o no ranking, respectivamente.</li>
-        </ul>
+            <details class="conteudo-regras-torneio">
+            <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
+<ul>
+    <li>A promoção acontece do dia 29/04/24 até 29/09/24;</li>
+    <li>A oferta é válida para todos os jogos de Cassino da Wazdan durante o período promocional;</li>
+    <li>Os jogadores se qualificam para participar da promoção fazendo uma aposta nos jogos participantes durante o período da campanha. Não há custo adicional;</li>
+    <li>Os jogadores podem ganhar mais de um prêmio aleatório durante a campanha. O valor máximo total dos prêmios em dinheiro é de 5.000.000 Euros divididos em 100.000 Caixas Misteriosas;</li>
+    <li>Qualquer aposta qualificada nos jogos participantes durante o período da campanha pode concorrer a um prêmio;</li>
+    <li>Uma aposta qualificada pode ganhar apenas um prêmio. Eles serão concedidos aleatoriamente ao longo do período da campanha;</li>
+    <li>Sem requisito mínimo de aposta. Todas as apostas são qualificadas para participar da campanha;</li>
+    <li>O número de prêmios disponíveis é atualizado instantaneamente;</li>
+    <li>Os prêmios serão creditados imediatamente na conta do cassino do jogador ao receber a notificação de vitória e serão pagos conforme a tabela de pool de prêmios;</li>
+    <li>Os prêmios em dinheiro não têm NENHUM requisito de aposta;</li>
+    <li>Prêmios creditados durante o uso de saldo de bônus serão pagos em saldo de bônus.</li>
+</ul>
+
+            
+        
+        </details>
+     
+            
         
         </details>
         <div class="div-jogos-participantes-do-torneio">
         <div class="div-jogos-participantes-do-torneio">
         <div class="game-card-torneio secao-extra">
- <a href="URL_DE_DESTINO">
-
-
-        <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13485.jpg" alt="Gates of Olympus">
-         </a>
-        <p>Gates of Olympus</p>
-        <p>Pragmatic Play</p>
-    
-</div>
-    <div class="game-card-torneio secao-extra">
-    <a href="URL_DE_DESTINO">
-        <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/13183.jpg" alt="">
-         </a>
-        <p>Big Bass Bonanza</p>
-        <p>Pragmatic Play</p>
-    </div>  
-    <div class="game-card-torneio secao-extra">
-    <a href="URL_DE_DESTINO">
-        <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/20053.jpg" alt="">
-         </a>
-        <p>Sugar Rush</p>
-        <p>Pragmatic Play</p>
-    </div>  
-    <div class="game-card-torneio secao-extra">
-    <a href="URL_DE_DESTINO">
-        <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/8888.jpg" alt="">
-         </a>
-        <p>Sweet Bonanza</p>
-        <p>Pragmatic Play</p>
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4574">
+            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/4574.jpg" alt="Valhalla">
+        </a>
+        <p>Valhalla</p>
+        <p>Wazdan</p>
     </div>
- 
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4501">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4501.jpg" alt="Draculas Castle">
+        </a>
+        <p>Draculas Castle</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/21331">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/21331.jpg" alt="Power of Gods: Hades World Cup">
+        </a>
+        <p>Power of Gods: Hades World Cup</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/26847">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/26847.jpg" alt="30 Coins">
+        </a>
+        <p>30 Coins</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4534">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4534.jpg" alt="Jumping Fruits">
+        </a>
+        <p>Jumping Fruits</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/25890">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/25890.jpg" alt="12 Coins Grand Gold Edition">
+        </a>
+        <p>12 Coins Grand Gold Edition</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4565">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4565.jpg" alt="Space Gem">
+        </a>
+        <p>Space Gem</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4509">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4509.jpg" alt="Football Mania Deluxe">
+        </a>
+        <p>Football Mania Deluxe</p>
+        <p>Wazdan</p>
+    </div>
+    
+    </div>
+    <div>
+    <button class="botao-torneio-informacoes-carregar" id="btnMostrarMais">Mostrar Mais</button>
+</div>
  `;
             
             // Seleciona o conteÃºdo baseado na classe do botÃ£o
@@ -551,7 +285,10 @@
                 selectedHtmlContent = htmlContent2;
             } else if (this.classList.contains('torneio3')) {
                 selectedHtmlContent = htmlContent3;
+            } else if (this.classList.contains('torneio4')) {
+                selectedHtmlContent = htmlContent4;  // Adicionando o caso para torneio4
             }
+            
 
             var bodyElement = document.body;
             if (bodyElement) {
@@ -587,7 +324,7 @@
             secao.style.display = 'none';
         });
 
-        function mostrarProximas4SeÃ§Ãµes() {
+        function mostrarProximas4Secoes() {
             const maxIndex = atualIndex + 4;
             for (let i = atualIndex; i < maxIndex && i < secoes.length; i++) {
                 secoes[i].style.display = 'block';
@@ -595,11 +332,11 @@
             atualIndex += 4;
         }
 
-        mostrarProximas4SeÃ§Ãµes();
+        mostrarProximas4Secoes();
 
         const btnMostrarMais = container.querySelector('#btnMostrarMais');
         if (btnMostrarMais) {
-            btnMostrarMais.addEventListener('click', mostrarProximas4SeÃ§Ãµes);
+            btnMostrarMais.addEventListener('click', mostrarProximas4Secoes);
         }
     }
 
