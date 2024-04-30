@@ -31,7 +31,8 @@
                 <p>Além disso, em nossos Torneios Diários, cada giro conta! Os pontos são acumulados com base na soma dos multiplicadores de vitórias. Além disso, os prêmios são generosamente distribuídos de acordo com a classificação dos jogadores no ranking. Não perca a chance de girar, ganhar e subir ao topo!</p>
             </div>
             <details class="conteudo-regras-torneio">
-                <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
+                <summary><p>Regras do Torneio <strong><i class="fa fa-caret-down right"></i></strong></p></summary>
+
                 <ul>
                     <li>Lista de premiados e as regras: as regras e a lista de premiados estarão acessíveis nos jogos participantes;</li>
                     <li>Elegibilidade para torneios: apenas as primeiras 5.000 apostas qualificadas por dia são elegíveis para participar dos torneios diários;</li>
@@ -95,7 +96,8 @@
         
         </div>
         <details class="conteudo-regras-torneio">
-            <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
+            <summary><p>Regras do Torneio <strong><i class="fa fa-caret-down right"></i></strong></p></summary>
+
             <ul>
                 <li>Regras e ranking: as regras e o ranking da promoção são exibidos nos jogos participantes;</li>
                 <li>Elegibilidade: apenas as primeiras 800 apostas qualificadas diariamente nos jogos participantes são válidas para ganhar prêmios;</li>
@@ -143,7 +145,8 @@
                 <p>Além disso, não perca a chance de girar a roda da fortuna no Mega Wheel Madness e ganhar prêmios todos os dias!</p>
             </div>
             <details class="conteudo-regras-torneio">
-                <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
+                <summary><p>Regras do Torneio <strong><i class="fa fa-caret-down right"></i></strong></p></summary>
+
                 <ul>
                     <li>Frequência dos eventos: são realizados 312 drops diários e 52 megatorneios nas sextas-feiras;</li>
                     <li>Participação e apostas: é preciso aceitar a participação nas atividades promocionais e cumprir com o requisito de aposta mínima do jogo;</li>
@@ -186,7 +189,8 @@
     </div>
             
             <details class="conteudo-regras-torneio">
-            <summary><p>Regras do Torneio <strong>⮟</strong></p></summary>
+            <summary><p>Regras do Torneio <strong><i class="fa fa-caret-down right"></i></strong></p></summary>
+
 <ul>
     <li>A promoção acontece do dia 29/04/24 até 29/09/24;</li>
     <li>A oferta é válida para todos os jogos de Cassino da Wazdan durante o período promocional;</li>
@@ -279,6 +283,118 @@
     <button class="botao-torneio-informacoes-carregar" id="btnMostrarMais">Mostrar Mais</button>
 </div>
  `;
+            var htmlContent5 =  `<div class="cointainer-principal-informacoes-torneio">
+        <div class="imagem-banner-informacoes-torneio">
+            <img src="https://blog.upbet.com/wp-content/uploads/2024/04/7e668b9e-50c4-4cbf-934d-2db94773e999.jpg" alt="">
+            <span id="torneio-em-andamento">Em Andamento</span>
+        </div>
+        <div class="titulo-e-premiacao-torneio">
+            <p>Pragmatic</p>
+            <span>Conjunto de premios R$25.000.000</span>
+        </div>
+        <div class="conteudo-premiacao-torneio">
+   
+        <p id="titulo-1-torneio">Torneio De Cassino</p>
+        <p>Descubra a emocionante mecânica dos torneios em nossa plataforma! Com Drops Semanais que oferecem multiplicadores incríveis e o desafio do Goal Prize Drop durante o Craques da América, cada rodada é uma oportunidade única de vitória. Prepare-se para colecionar palavras, conquistar prêmios e entrar na corrida pelos maiores multiplicadores. </p>
+        <p>Viva a adrenalina dos jogos selecionados e torne-se um campeão em nossa comunidade de jogadores!</p>
+    </div>
+            
+            <details class="conteudo-regras-torneio">
+            <summary><p>Regras do Torneio <strong><i class="fa fa-caret-down right"></i></strong></p></summary>
+
+            <ul>
+            <li><strong>Drops Semanais:</strong>
+                <ul>
+                    <li>Drop de prêmios semanal com multiplicadores de até x500.</li>
+                    <li>Cálculo de vitória: ganho do multiplicador vezes a aposta da rodada vencedora.</li>
+                    <li>Toda semana os jogadores serão premiados aleatoriamente com um multiplicador nos Jogos Selecionados.</li>
+                    <li>Multiplicadores podem ser aplicados até uma aposta máxima de 10 BRL.</li>
+                </ul>
+            </li>
+            <li><strong>Goal Prize Drop (Durante os Craques da América - Contagem regressiva de 30 de abril a 3 de junho):</strong>
+                <ul>
+                    <li>Os jogadores devem coletar todas as palavras qualificadas (Goleiro, Atacante, Defensor, Goal).</li>
+                    <li>Cada vez que o jogador completar a Coleção, o jogador será elegível a um prêmio.</li>
+                    <li>Jogos participantes: Auto Mega Roleta, Auto Roleta, Roleta Brasileira, Super Trunfo (NOVO), Roleta Espanhola, Boom City, Dragon Tiger, Lucky 6 Roulette, Mega Roulette, Mega Sic Bo, PowerUP Roulette, English Roulette, Roulette Azure, Roulette Verde, Sweet Bonanza CandyLand e Vegas Ball Bonanza.</li>
+                    <li>Até 5 jogadores por semana podem ganhar um prêmio de € 300 (R$ 1.500).</li>
+                    <li>Os jogadores podem ganhar mais de 1 prêmio se completarem a Coleção várias vezes.</li>
+                </ul>
+            </li>
+        </ul>
+        
+
+            
+        
+        </details>
+     
+            
+        
+        </details>
+
+
+        <div class="div-jogos-participantes-do-torneio">
+        <div class="div-jogos-participantes-do-torneio">
+        <div class="game-card-torneio secao-extra">
+    <a href="https://upbet.com/ptb/games/livecasino/detail/normal/20164/1401-BRL">
+        <img src="//static.sportingtech.com/common/assets/images/livecasino/300x200/20164.jpg" alt="Boom City">
+    </a>
+    <p>Boom City</p>
+    <p>Pragmatic</p>
+</div>
+
+<div class="game-card-torneio secao-extra">
+    <a href="https://upbet.com/ptb/games/livecasino/detail/normal/18024/1001-BRL">
+        <img src="//static.sportingtech.com/common/assets/images/livecasino/300x200/18024.jpg" alt="Dragon Tiger">
+    </a>
+    <p>Dragon Tiger</p>
+    <p>Pragmatic</p>
+</div>
+
+<div class="game-card-torneio secao-extra">
+    <a href="https://upbet.com/ptb/games/livecasino/detail/normal/23973/210-BRL">
+        <img src="//static.sportingtech.com/common/assets/images/livecasino/300x200/23973.jpg" alt="Mega Roulette">
+    </a>
+    <p>Mega Roulette</p>
+    <p>Pragmatic</p>
+</div>
+
+<div class="game-card-torneio secao-extra">
+    <a href="https://upbet.com/ptb/games/livecasino/detail/normal/11371/701-BRL">
+        <img src="//static.sportingtech.com/common/assets/images/livecasino/300x200/11371.jpg" alt="Mega Sic Bo">
+    </a>
+    <p>Mega Sic Bo</p>
+    <p>Pragmatic</p>
+</div>
+
+<div class="game-card-torneio secao-extra">
+    <a href="https://upbet.com/ptb/games/livecasino/detail/normal/20803/240-BRL">
+        <img src="//static.sportingtech.com/common/assets/images/livecasino/300x200/20803.jpg" alt="PowerUP Roulette">
+    </a>
+    <p>PowerUP Roulette</p>
+    <p>Pragmatic</p>
+</div>
+
+<div class="game-card-torneio secao-extra">
+    <a href="https://upbet.com/ptb/games/livecasino/detail/normal/17448/1101-BRL">
+        <img src="//static.sportingtech.com/common/assets/images/livecasino/300x200/17448.jpg" alt="Sweet Bonanza CandyLand">
+    </a>
+    <p>Sweet Bonanza CandyLand</p>
+    <p>Pragmatic</p>
+</div>
+
+<div class="game-card-torneio secao-extra">
+    <a href="https://upbet.com/ptb/games/livecasino/detail/normal/23985/1501-BRL">
+        <img src="//static.sportingtech.com/common/assets/images/livecasino/300x200/23985.jpg" alt="Vegas Ball Bonanza">
+    </a>
+    <p>Vegas Ball Bonanza</p>
+    <p>Wazdan</p>
+</div>
+
+    </div>
+    <div>
+    <button class="botao-torneio-informacoes-carregar" id="btnMostrarMais">Mostrar Mais</button>
+</div>
+ `;
             
             // Seleciona o conteÃºdo baseado na classe do botÃ£o
             var selectedHtmlContent;
@@ -290,6 +406,9 @@
                 selectedHtmlContent = htmlContent3;
             } else if (this.classList.contains('torneio4')) {
                 selectedHtmlContent = htmlContent4;  // Adicionando o caso para torneio4
+            }
+             else if (this.classList.contains('torneio5')) {
+                selectedHtmlContent = htmlContent5;  // Adicionando o caso para torneio4
             }
             
 
