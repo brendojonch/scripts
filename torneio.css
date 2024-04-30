@@ -43,7 +43,7 @@
 #icone-torneio-ganhadores-inner{
   width: 30px;
   position: fixed;
-  top: 60px;
+  top: 95px;
   right: 20px;
 }
 
@@ -275,7 +275,7 @@ color: #fff;
 }
 
 
-#conteudo, #conteudo2 , #conteudo3 , #conteudo4  {
+#conteudo, #conteudo2 , #conteudo3 , #conteudo4, #conteudo5  {
 min-height: 220px;
 max-height: 220px; 
 overflow-y: scroll;
@@ -411,12 +411,11 @@ list-style: none;
 padding: 0;
 }
 .torneio-card li {
-background-color: #212121;
-padding: 5px 10px;
-margin-bottom: 5px;
-border-radius: 5px;
-color: #fff;
-box-shadow: 0 2px 2px rgba(0, 0, 0, 0.05);
+  padding: 5px 10px;
+  margin-bottom: 5px;
+  background: linear-gradient(to left, #313131, #1a1a1a);
+  border-radius: 5px;
+  color: #fff;
 }
 .mais-info {
   display: block;
@@ -524,7 +523,7 @@ opacity: 0.75;
   transform: translateX(0%);
 }
 #slide-torneio-final2:checked ~ .cards-torneio-final {
-  transform: translateX(-33.33%);
+  transform: translateX(-66.66%);
 }
 
 .navigation-torneio-final {
@@ -571,7 +570,7 @@ opacity: 0.75;
       transition: right 0.5s ease-in-out;      
   }
 
-  #conteudo, #conteudo2 , #conteudo3 , #conteudo4  {
+  #conteudo, #conteudo2 , #conteudo3 , #conteudo4, #conteudo5  {
       min-height: auto;
 
 
@@ -626,8 +625,8 @@ opacity: 0.75;
 
 
   .torneio-card {
-    width: 100%;
-    margin: 10px 0 20px 0;
+    width: 95%;
+    margin: 10px auto 30px auto;
   }
 
   .torneio-body {
@@ -694,3 +693,9 @@ opacity: 0.75;
 }
 
 
+
+
+
+
+
+  
