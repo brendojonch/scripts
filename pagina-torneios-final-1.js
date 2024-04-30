@@ -30,39 +30,39 @@ $(document).ready(function() {
 
     var conteudoPremio2 = `
         <ul>
-<li># - 2023036826350	R$ 500,00</li>
-<li># - 2022106414589	R$ 100,00</li>
-<li># - 2023106350750	R$ 100,00</li>
-<li># - 2022117402995	R$ 100,00</li>
-<li># - 2024034733808	R$ 50,00</li>
-<li># - 2022128604664	R$ 50,00</li>
-<li># - 2024035502867	R$ 50,00</li>
-<li># - 2023025558955	R$ 50,00</li>
-<li># - 2023048498462	R$ 50,00</li>
-<li># - 2022106414589	R$ 50,00</li>
-<li># - 2022129938307	R$ 50,00</li>
-<li># - 2022117402995	R$ 50,00</li>
-<li># - 2023015324202	R$ 25,00</li>
-<li># - 2024034733808	R$ 25,00</li>
-<li># - 2023117247245	R$ 25,00</li>
-<li># - 2022106087168	R$ 25,00</li>
-<li># - 2023117239350	R$ 25,00</li>
-<li># - 2022077703755	R$ 25,00</li>
-<li># - 2022129054117	R$ 25,00</li>
-<li># - 2022077703755	R$ 25,00</li>
-<li># - 2023036826350	R$ 25,00</li>
-<li># - 2023078877759	R$ 25,00</li>
-<li># - 2023048498462	R$ 25,00</li>
-<li># - 2022118029876	R$ 25,00</li>
-<li># - 2023048498462	R$ 25,00</li>
-<li># - 2024045689523	R$ 25,00</li>
-<li># - 2022128622969	R$ 25,00</li>
-<li># - 2022077712071	R$ 25,00</li>
-<li># - 2022117402995	R$ 25,00</li>
-<li># - 2022106539596	R$ 25,00</li>
-<li># - 2022077712071	R$ 25,00</li>
-<li># - 2022117524282	R$ 25,00</li>
-<li># - 2023071449873	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023036826350	R$ 500,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022106414589	R$ 100,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023106350750	R$ 100,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022117402995	R$ 100,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2024034733808	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022128604664	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2024035502867	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023025558955	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023048498462	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022106414589	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022129938307	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022117402995	R$ 50,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023015324202	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2024034733808	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023117247245	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022106087168	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023117239350	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022077703755	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022129054117	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022077703755	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023036826350	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023078877759	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023048498462	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022118029876	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023048498462	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2024045689523	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022128622969	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022077712071	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022117402995	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022106539596	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022077712071	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2022117524282	R$ 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 2023071449873	R$ 25,00</li>
             
         </ul>
     `;
@@ -86,11 +86,11 @@ $(document).ready(function() {
 
     var conteudoPremio1 = `
         <ul>
-            <li># - 52370030417008 - 25,00</li>
-            <li># - 52370030417008 - 25,00</li>
-            <li># - 52370030417008 - 25,00</li>
-            <li># - 52370030417008 - 25,00</li>
-            <li># - 52370030417008 - 25,00</li>
+            <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+            <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+            <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+            <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+            <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
         </ul>
     `;
 
@@ -139,11 +139,11 @@ $(document).ready(function() {
 
 var conteudoPremio3 = `
 <ul>
-<li># - 52370030417008 - 25,00</li>
-<li># - 52370030417008 - 25,00</li>
-<li># - 52370030417008 - 25,00</li>
-<li># - 52370030417008 - 25,00</li>
-<li># - 52370030417008 - 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+<li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
 </ul>
 `;
 var conteudoJogo4 = `
@@ -184,9 +184,55 @@ var conteudoJogo4 = `
 
 var conteudoPremio4 = `
 <ul>
-    <li># - 52370030417008 - 25,00</li>
-    <li># - 52370030417008 - 25,00</li>
-    <li># - 52370030417008 - 25,00</li> 
+    <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+    <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li>
+    <li><i class="class="pg-icons fa fa-trophy""></i> - 52370030417008 - 25,00</li> 
+
+  
+ 
+</ul>
+`;
+var conteudoJogo5 = `
+<div>
+            <a href="https://upbet.com/ptb/games/livecasino/detail/normal/20164/1401-BRL" class="inner_table unit_panel">
+                <div class="unit_image">
+                    <img src="https://static.sportingtech.com/common/assets/images/livecasino/300x200/20164.jpg" class="el-image__inner" style="object-fit: cover;">
+                </div>
+                <div class="unit_cover">
+                    <div class="unit_name">Boom City</div>
+                    <div class="unit_vendor">Pragmatic</div>
+                </div>
+            </a>
+            <a href="https://upbet.com/ptb/games/livecasino/detail/normal/18024/1001-BRL" class="inner_table unit_panel">
+                <div class="unit_image">
+                    <img src="https://static.sportingtech.com/common/assets/images/livecasino/300x200/18024.jpg" class="el-image__inner" style="object-fit: cover;">
+                </div>
+                <div class="unit_cover">
+                    <div class="unit_name">Dragon Tiger</div>
+                    <div class="unit_vendor">Pragmatic</div>
+                </div>
+            </a>
+            <a href="https://upbet.com/ptb/games/livecasino/detail/normal/23973/210-BRL" class="inner_table unit_panel">
+                <div class="unit_image">
+                    <img src="https://static.sportingtech.com/common/assets/images/livecasino/300x200/23973.jpg" class="el-image__inner" style="object-fit: cover;">
+                </div>
+                <div class="unit_cover">
+                    <div class="unit_name">Mega Roulette</div>
+                    <div class="unit_vendor">Pragmatic</div>
+                </div>
+            </a>
+      
+        </div>
+       
+        
+      
+    `;
+
+var conteudoPremio5 = `
+<ul>
+    <li><i class="class="pg-icons fa fa-trophy""></i> - <i class="class="pg-icons fa fa-trophy""></i>  - R$</li>
+    <li><i class="class="pg-icons fa fa-trophy""></i> - <i class="class="pg-icons fa fa-trophy""></i> - R$</li>
+    <li><i class="class="pg-icons fa fa-trophy""></i> - <i class="class="pg-icons fa fa-trophy""></i> - R$</li> 
 
   
  
@@ -209,12 +255,16 @@ function atualizarConteudo3(conteudo) {
 function atualizarConteudo4(conteudo) {
     document.getElementById('conteudo4').innerHTML = conteudo;
 }
+function atualizarConteudo5(conteudo) {
+    document.getElementById('conteudo5').innerHTML = conteudo;
+}
 
 
 atualizarConteudo(conteudoJogo1);
 atualizarConteudo2(conteudoJogo2);
 atualizarConteudo3(conteudoJogo3);
 atualizarConteudo4(conteudoJogo4);
+atualizarConteudo5(conteudoJogo5);
 
 buttons.forEach(function(button) {
     button.addEventListener('click', function() {
@@ -281,6 +331,17 @@ document.querySelectorAll('.botao-premios4').forEach(function(btn) {
         atualizarConteudo4(conteudoPremio4);
     });
 });
+document.querySelectorAll('.botao-jogo5').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        atualizarConteudo5(conteudoJogo5);
+    });
+});
+
+document.querySelectorAll('.botao-premios5').forEach(function(btn) {
+    btn.addEventListener('click', function() {
+        atualizarConteudo5(conteudoPremio5);
+    });
+});
 
 });
 
@@ -317,5 +378,5 @@ atualizarContador(1, 'june 5, 2024 23:59:59');
 atualizarContador(2, 'June 30, 2024 23:59:59');
 atualizarContador(3, 'March 15, 2025 23:59:59');
 atualizarContador(4, 'September 29, 2024 23:59:59');
-
+atualizarContador(5, 'September 29, 2024 23:59:59');
 
