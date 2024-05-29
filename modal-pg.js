@@ -133,7 +133,7 @@
                 <span id="torneio-em-andamento">Em Andamento</span>
             </div>
             <div class="titulo-e-premiacao-torneio">
-                <p>Mega Wheel</p>
+                <p>PG Torneio</p>
                 <span>Conjunto de premios R$25.000.000</span>
             </div>
             <div class="conteudo-premiacao-torneio">
