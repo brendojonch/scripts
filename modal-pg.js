@@ -166,20 +166,75 @@
                 </ul>
             </details>
             <div class="div-jogos-participantes-do-torneio">
-            <div class="div-jogos-participantes-do-torneio">
-            <div class="game-card-torneio secao-extra jogo-unico">
-     <a href="https://go.aff.upbet.com/zs49baos">
-    
-    
-            <img src="https://static.sportingtech.com/common/assets/images/livecasino/300x200/11370.jpg" alt="Mega Wheel" title="Mega Wheel">
-             </a>
-            <p>Mega Wheel</p>
-            <p>Pragmatic Play</p>
-        
+        <div class="div-jogos-participantes-do-torneio">
+        <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4574">
+            <img src="https://static.sportingtech.com/common/assets/images/casino/300x200/4574.jpg" alt="Valhalla">
+        </a>
+        <p>Valhalla</p>
+        <p>Wazdan</p>
     </div>
-
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4501">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4501.jpg" alt="Draculas Castle">
+        </a>
+        <p>Draculas Castle</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/21331">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/21331.jpg" alt="Power of Gods: Hades World Cup">
+        </a>
+        <p>Power of Gods: Hades World Cup</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/26847">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/26847.jpg" alt="30 Coins">
+        </a>
+        <p>30 Coins</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4534">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4534.jpg" alt="Jumping Fruits">
+        </a>
+        <p>Jumping Fruits</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/25890">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/25890.jpg" alt="12 Coins Grand Gold Edition">
+        </a>
+        <p>12 Coins Grand Gold Edition</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4565">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4565.jpg" alt="Space Gem">
+        </a>
+        <p>Space Gem</p>
+        <p>Wazdan</p>
+    </div>
+    
+    <div class="game-card-torneio secao-extra">
+        <a href="https://m.upbet.com/ptb/games/casino/detail/normal/4509">
+            <img src="//static.sportingtech.com/common/assets/images/casino/300x200/4509.jpg" alt="Football Mania Deluxe">
+        </a>
+        <p>Football Mania Deluxe</p>
+        <p>Wazdan</p>
+    </div>
+    
+    </div>
+    <div>
+    <button class="botao-torneio-informacoes-carregar" id="btnMostrarMais">Mostrar Mais</button>
 </div>
-    </div>
      `;
             
             var htmlContent4 =  `<div class="cointainer-principal-informacoes-torneio">
