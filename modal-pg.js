@@ -134,15 +134,27 @@
             </div>
             <div class="titulo-e-premiacao-torneio">
                 <p>PG Torneio</p>
-                <span>Conjunto de premios R$25.000.000</span>
+                <span>Conjunto de premios R$1.000.000</span>
             </div>
             <div class="conteudo-premiacao-torneio">
                 <p id="titulo-1-torneio">Torneio De Cassino</p>
-                
-                <p>Prepare-se para entrar no frenesi do Mega Wheel Madness, uma promoÃ§Ã£o diÃ¡ria, repleta de emoÃ§Ã£o e oportunidades de ganhar prÃªmios surpreendentes! AlÃ©m disso, a dinÃ¢mica do jogo Ã© simples e envolvente. Vem conferir!</p>
-                <p>Drops DiÃ¡rios: para concorrer, os jogadores devem aceitar participar ativamente do torneio e fazer uma aposta mÃ­nima especÃ­fica do jogo. As apostas podem desencadear um prÃªmio aleatÃ³rio, distribuÃ­do de acordo com a nossa detalhada tabela de prÃªmios. EntÃ£o, cada giro pode ser a chave para uma recompensa incrÃ­vel!</p>
-                <p>Megatorneios de sexta-feira: elevando a emoÃ§Ã£o a outro nÃ­vel, os megatorneios acontecem todas as sextas-feiras. Os jogadores devem entrar no torneio fazendo uma aposta mÃ­nima, que nÃ£o sÃ³ aumentam suas chances de ganhar, mas acumulam pontos que definem a posiÃ§Ã£o no ranking do torneio. Os prÃªmios sÃ£o generosos e distribuÃ­dos de acordo com a classificaÃ§Ã£o dos participantes.</p>
-                <p>AlÃ©m disso, nÃ£o perca a chance de girar a roda da fortuna no Mega Wheel Madness e ganhar prÃªmios todos os dias!</p>
+                <p><strong>1. Período do Torneio:</strong><br>
+    O torneio acontece de 1 de junho de 2024 a 30 de junho de 2024.</p>
+    
+    <p><strong>2. Jogos selecionados:</strong><br>
+    Todos os jogos de slot da PG Soft.</p>
+    
+    <p><strong>3. Veja como participar:</strong><br>
+    Para participar, aposte nos jogos selecionados durante o "Período de Promoção".</p>
+    
+    <p><strong>4. Confira os prêmios:</strong><br>
+    O prêmio do torneio de 30 dias é em dinheiro, totalizando R$1.000.050 durante todo o período.<br>
+    Prêmios diários em dinheiro totalizando R$33.335.</p>
+    
+    <p><strong>5. Ranking diário e prêmios:</strong><br>
+    O ranking é baseado no valor total apostado diariamente.<br>
+    Os prêmios diários em dinheiro são distribuídos da seguinte forma:</p>
+    
             </div>
             <details class="conteudo-regras-torneio">
                 <summary><p>Regras do Torneio <strong><i class="fa fa-caret-down right"></i></strong></p></summary>
